@@ -1,0 +1,1 @@
+module.exports = 'IT work form module.js';
